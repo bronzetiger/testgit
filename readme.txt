@@ -4,4 +4,9 @@
 444444444
 66666
 create new branch
+<<<<<<< HEAD
 master
+=======
+feature
+>>>>>>> feature1
+feature
